@@ -1,0 +1,85 @@
+Total Physical Memory: 16083.38 MB
+Available Physical Memory: 4906.58 MB
+Total Virtual Memory: 2047.88 MB
+Available Virtual Memory: 2028.34 MB
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Program started}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Allocating memory with synchronization}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Loading allocator}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Allocating memory with synchronization}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Loading allocator}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Allocating memory with synchronization}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Loading allocator}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Allocating memory with synchronization}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Loading allocator}***************
+
+[Thu Apr 18 13:59:09 2024]
+ 
+ ***************{Garbage collection initiated}***************
+
+[Thu Apr 18 13:59:10 2024]
+ 
+ ***************{Moving reference}***************
+
+[Thu Apr 18 13:59:10 2024]
+ 
+ ***************{ % Collecting garbage % }***************
+
+[Thu Apr 18 13:59:11 2024]
+ 
+ ***************{Moving reference}***************
+
+[Thu Apr 18 13:59:11 2024]
+ 
+ ***************{ % Collecting garbage % }***************
+
+[Thu Apr 18 13:59:12 2024]
+ 
+ ***************{Moving reference}***************
+
+[Thu Apr 18 13:59:12 2024]
+ 
+ ***************{Moving reference}***************
+
+[Thu Apr 18 13:59:12 2024]
+ 
+ ***************{ % Collecting garbage % }***************
+
+[Thu Apr 18 13:59:13 2024]
+ 
+ ***************{Getting memory reference count}***************
+
+[Thu Apr 18 13:59:13 2024]
+ 
+ ***************{Program ended}***************
+
+[Thu Apr 18 13:59:13 2024]
+ 
+ ***************{Program ended}***************
+
